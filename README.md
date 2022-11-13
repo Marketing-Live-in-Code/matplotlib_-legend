@@ -1,1 +1,2 @@
-# matplotlib_-legend
+# 圖例
+Matplotlib的圖例設定。
